@@ -17,3 +17,12 @@ A collection of my completed courses and certifications as I build my skills in 
  
 
 [![Kaggle Intro to Programming Certificate](./kaggle-intro-programming.png)](https://github.com/FoziaAmjad/Achievements/blob/main/kaggle%20-%20Intro%20to%20Programming.png)
+
+
+---
+
+### 3. Intro to Data Analysis
+* **Overview:** Foundational concepts of data analysis, understanding data workflows, types of data, basic interpretation, and how data informs decision-making.
+ 
+
+![Intro to Data Analysis Certificate](./intro-data-analysis.png)
