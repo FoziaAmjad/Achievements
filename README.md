@@ -8,7 +8,7 @@ A collection of my completed courses and certifications as I build my skills in 
 * **Skills Covered:** Python syntax, functions, conditionals, lists, loops, strings, dictionaries, and working with external libraries.
  
 
-![Kaggle Python Certificate](./kaggle-python.png)
+[![Kaggle Python Certificate](./kaggle-python.png)](https://github.com/FoziaAmjad/Achievements/blob/main/kaggle_python.png)
 
 ---
 
