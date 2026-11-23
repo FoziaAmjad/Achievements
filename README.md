@@ -25,4 +25,4 @@ A collection of my completed courses and certifications as I build my skills in 
 * **Overview:** Foundational concepts of data analysis, understanding data workflows, types of data, basic interpretation, and how data informs decision-making.
  
 
-![Intro to Data Analysis Certificate](./intro-data-analysis.png)
+[![Intro to Data Analysis Certificate](./intro-data-analysis.png)](https://github.com/FoziaAmjad/Achievements/blob/main/skillup_Intro%20to%20Data%20Analytics.jpg)
