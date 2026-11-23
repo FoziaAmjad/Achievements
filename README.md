@@ -16,4 +16,4 @@ A collection of my completed courses and certifications as I build my skills in 
 * **Skills Covered:** Arithmetic and variables, functions, data types, conditions and conditional statements, and intro to lists.
  
 
-![Kaggle Intro to Programming Certificate](./kaggle-intro-programming.png)
+[![Kaggle Intro to Programming Certificate](./kaggle-intro-programming.png)](https://github.com/FoziaAmjad/Achievements/blob/main/kaggle%20-%20Intro%20to%20Programming.png)
